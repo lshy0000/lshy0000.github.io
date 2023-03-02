@@ -2,18 +2,17 @@
 
 
 ##GitHub博客： 
-[http://lshy0000.github.io](http://barryliu.github.io)
+[http://lshy0000.github.io](http://lshy0000.github.io)
 -----------
 ##GitHub网站：[https://github.com/lshy0000](https://github.com/lshy0000) 
 ----------
-##开源中国网站：[http://git.oschina.net/barryliu](http://git.oschina.net/barryliu) 
+##开源中国网站：[http://git.oschina.net/lshy0000](http://git.oschina.net/lshy0000) 
 ----------
-##CSDN网站：[http://blog.csdn.net/github_33764133](http://blog.csdn.net/github_33764133) 
+##CSDN网站：[https://blog.csdn.net/u013309497](https://blog.csdn.net/u013309497) 
 ----------
-##Coding网站：[https://coding.net/u/lshy0000](https://coding.net/u/lshy0000) 
+##Coding网站：[https://lshy00000.coding.net/](https://lshy00000.coding.net/) 
 ----------
-##sina网站：[http://blog.sina.com.cn/barry110](http://blog.sina.com.cn/barry110) (不怎么玩)
-----------
+
 
 ### 安装说明
 
